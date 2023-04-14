@@ -9,6 +9,9 @@ TagManager:
   - cat
   - simple
   - paper
+  - Mask
+  - Helmet
+  - StereoGlasses
   layers:
   - Default
   - TransparentFX
